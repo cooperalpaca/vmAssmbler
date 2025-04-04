@@ -384,6 +384,4 @@ namespace InstructionEncoder
             return pushes;
         }
     }
-
-
 }
